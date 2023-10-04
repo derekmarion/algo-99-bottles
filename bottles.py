@@ -10,4 +10,3 @@ def bottle_song(bottles):
 		count -= 1
 	print("No more bottles of beer on the wall, no more bottles of beer.")
 	print(f"Go to the store and buy some more, {bottles} bottles of beer on the wall.")	
-bottle_song(99)
